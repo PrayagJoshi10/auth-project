@@ -14,7 +14,7 @@ This Node.js application demonstrates a secure authentication system using JSON 
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/PrayagJoshi10/node-js-authentication.git](https://github.com/PrayagJoshi10/node-js-authentication.git)
+   git clone https://github.com/PrayagJoshi10/node-js-authentication.git
 
    ```
 
