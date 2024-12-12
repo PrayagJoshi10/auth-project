@@ -20,7 +20,8 @@ This Node.js application demonstrates a secure authentication system using JSON 
 
 2. **Install dependencies:**
 
-   ```bash npm install
+   ```bash
+   npm install
 
    ```
 
